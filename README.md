@@ -1,5 +1,7 @@
 # 📊 Bank Loan Analysis – Power BI Project
 
+<img width="1536" height="1024" alt="bankloan_analysis" src="https://github.com/user-attachments/assets/bf6ee283-aa02-4332-857e-92518d203b3a" />
+
 > A comprehensive **Power BI dashboard** to analyze bank loan applications, funded amounts, repayments, and borrower insights.  
 > Includes **3 interactive dashboards** (Summary, Overview, Details) with Good vs. Bad loan KPIs, regional analysis, and borrower trends.  
 
